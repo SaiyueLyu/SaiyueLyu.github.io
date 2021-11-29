@@ -2,10 +2,10 @@
 layout: page
 title: Project 1
 description: Supervised by Prof Zhicong Lu
-img: assets/img/7.jpg
+img: 
 redirect: https://drive.google.com/file/d/19fkRR2mUVc-nhDuAQbcxnPmPokwnhVDH/view?usp=sharing
 importance: 1
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
