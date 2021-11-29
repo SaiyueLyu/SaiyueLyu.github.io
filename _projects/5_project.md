@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: RL in Combinatorics
+description: A survery on Reinforcement Learning for COmbinatorial Optimization
+img: 
+redirect: https://drive.google.com/file/d/1YILnGDUSLLoT1tL8zEr4Wl7kb_LW020x/view
 importance: 3
-category: fun
+category: CS
 ---
 
 Every project has a beautiful feature showcase page.
