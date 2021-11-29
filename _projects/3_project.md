@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Exploring Temporal and Multilingual Dynamics of Post-Disaster Social Media Discourse: A Case of Fukushima Daiichi Nuclear Accident
+description: Supervised by Prof Zhicong Lu
+#img: assets/img/7.jpg
+redirect: https://drive.google.com/file/d/19fkRR2mUVc-nhDuAQbcxnPmPokwnhVDH/view?usp=sharing
+importance: 1
+#category: work
 ---
 
 Every project has a beautiful feature showcase page.
