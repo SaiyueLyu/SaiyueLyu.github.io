@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Some projects and personal writings
 nav: true
 display_categories: [CS, Math, Notes]
 horizontal: false
