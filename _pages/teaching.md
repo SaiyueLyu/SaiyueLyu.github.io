@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I am/was a TA for multiple CS courses at UWaterloo: 
+description: I am/was a TA for multiple CS courses at UWaterloo.
 nav: true
 nav_order: 6
 ---
