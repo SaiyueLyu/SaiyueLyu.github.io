@@ -7,6 +7,9 @@ nav: true
 display_categories: [CS, Math, Notes]
 horizontal: false
 ---
+
+My early projects are more related to Math, my interests have evolved from a mathematical background, to mathematical computer science, and now to now broader applications of computer science:)
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
