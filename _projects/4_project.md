@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Conjugate Gradient Method
+description: Theory and Implementation
 img:
+redirect:https://drive.google.com/file/d/1hFg5lT6ucJCwUU5oaZCBWc8onobddsy9/view?usp=sharing
 importance: 4
-category: fun
+category: CS
 ---
 
 Every project has a beautiful feature showcase page.
