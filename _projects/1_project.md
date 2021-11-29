@@ -3,7 +3,7 @@ layout: page
 title: Exploring Temporal and Multilingual Dynamics of Post-Disaster Social Media Discourse: A Case of Fukushima Daiichi Nuclear Accident
 description: Supervised by Prof. Zhicong Lu
 redirect: https://drive.google.com/file/d/19fkRR2mUVc-nhDuAQbcxnPmPokwnhVDH/view?usp=sharing
-#img: assets/img/12.jpg
+img: assets/img/12.jpg
 importance: 1
 #category: Computational Social Science
 ---
