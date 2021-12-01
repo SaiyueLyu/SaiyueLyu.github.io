@@ -2,7 +2,7 @@
 layout: about
 title: <strong>Saiyue</strong> Lyu  
 permalink: /
-description: she/her/hers
+description: she/her/hers : s6lyu@uwaterloo.ca
 
 #profile:
   #align: right
