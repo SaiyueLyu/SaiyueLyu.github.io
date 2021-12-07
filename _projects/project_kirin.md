@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Kirin
-description: An Interactive Visualization for Decentralized Finance Applications in Ethereum Blockchain
+description: HCI; An Interactive Visualization for Decentralized Finance Applications in Ethereum Blockchain
 img:
-importance: 2
+importance: 7
 category: CS
 ---
 
