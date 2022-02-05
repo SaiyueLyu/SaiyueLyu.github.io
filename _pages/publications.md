@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
   
-One first author paper submitted to WWW'22 that is under review. 
+One first author paper submitted to CSCW'22 that is under review. 
 
 #{% for y in page.years %}
   #<h2 class="year">{{y}}</h2>
