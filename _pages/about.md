@@ -23,6 +23,6 @@ I will be joining the University of British Columbia as a Computer Science Ph.D.
 
 - - -
 ### Education
-<i class="fas fa-graduation-cap"></i> MS, University of Waterloo, Computer Science, thesis-based, co-op option (2020.1-2022.4)
+<i class="fas fa-graduation-cap"></i> MMath, University of Waterloo, Computer Science, thesis-based, co-op option, 2020.1-2022.4 ([Master Thesis](http://hdl.handle.net/10012/18243){:target="\_blank"}
 
-<i class="fas fa-graduation-cap"></i> BSc, University of Waterloo, Honors Pure Mathematics, Honors Combinatorics and Optimization (2016.9-2019.12)
+<i class="fas fa-graduation-cap"></i> BMath, University of Waterloo, Honors Pure Mathematics, Honors Combinatorics and Optimization, 2016.9-2019.12
