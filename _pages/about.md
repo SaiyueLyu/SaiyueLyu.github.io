@@ -2,7 +2,7 @@
 layout: about
 title: <strong>Saiyue</strong> Lyu  
 permalink: /
-description: she/her/hers, s6lyu@uwaterloo.ca
+description: she/her/hers, saiyuel@cs.ubc.ca
 
 #profile:
   #align: right
@@ -17,12 +17,15 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-I am a master student in the [Cheriton School of Computer Science](https://www.cs.uwaterloo.ca){:target="\_blank"} at [The University of Waterloo](https://www.uwaterloo.ca){:target="\_blank"} supervised by Prof. [Mark Giesbrecht](https://cs.uwaterloo.ca/~mwg){:target="\_blank"}. I completed my unergraduate degree at Waterloo in [Pure Mathematics](https://uwaterloo.ca/pure-mathematics/){:target="\_blank"} and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/){:target="\_blank"}. My mathematical foundation gives me important tools to approach the advanced algorithmic techniques used in Machine Learning. I also worked with Prof. [Zhicong Lu](http://www.cs.utoronto.ca/~luzhc/){:target="\_blank"} on Computational Social Science.
+I am a Computer Science Ph.D. student at the [University of British Columbia](https://www.cs.ubc.ca/){:target="\_blank"} supervised by Prof. [Mijung Park](https://www.cs.ubc.ca/~mijungp/){:target="\_blank"}. I work on machine Learning.
 
-I will be joining the University of British Columbia as a Computer Science Ph.D. student in Fall2022 to work on privacy preserving machine learning:)
+I obtained my master degree in the [Cheriton School of Computer Science](https://www.cs.uwaterloo.ca){:target="\_blank"} at [The University of Waterloo](https://www.uwaterloo.ca){:target="\_blank"} supervised by Prof. [Mark Giesbrecht](https://cs.uwaterloo.ca/~mwg){:target="\_blank"}. I completed my unergraduate degree at Waterloo in [Pure Mathematics](https://uwaterloo.ca/pure-mathematics/){:target="\_blank"} and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/){:target="\_blank"}. I also worked with Prof. [Zhicong Lu](http://www.cs.utoronto.ca/~luzhc/){:target="\_blank"} on Computational Social Science.
+
 
 - - -
 ### Education
+<i class="fas fa-graduation-cap"></i> PhD, University of British Columbia, Computer Science, 2022.9-present
+
 <i class="fas fa-graduation-cap"></i> MMath, University of Waterloo, Computer Science, thesis-based, co-op option, 2020.1-2022.4 ([Master Thesis](http://hdl.handle.net/10012/18243){:target="\_blank"})
 
 <i class="fas fa-graduation-cap"></i> BMath, University of Waterloo, Honors Pure Mathematics, Honors Combinatorics and Optimization, 2016.9-2019.12
