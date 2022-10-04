@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I am/was a TA for multiple CS courses at UWaterloo.
+description: I am/was a TA for multiple CS courses at UBC and UWaterloo.
 nav: true
 ---
 
-* Teaching Assiatant, CS240 Data Structure & Data Management : 20Winter, 20Spring, 21Winter, 21Spring
-* Teaching Assistant, CS370 Numerical Computation : 21Winter
-* Teaching Assistant, CS234 Data Types and Structure : 20Fall
+At UBC :
+* TA, CPSC330 Applied Machine Learning : 22W1
+
+At UWaterloo :
+* TA, CS240 Data Structure & Data Management : 20Winter, 20Spring, 21Winter, 21Spring
+* TA, CS370 Numerical Computation : 21Winter
+* TA, CS234 Data Types and Structure : 20Fall
