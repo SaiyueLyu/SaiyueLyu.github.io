@@ -26,6 +26,6 @@ I obtained my master degree in the [Cheriton School of Computer Science](https:/
 ### Education
 <i class="fas fa-graduation-cap"></i> PhD, University of British Columbia, Computer Science, 2022.9-present
 
-<i class="fas fa-graduation-cap"></i> MMath, University of Waterloo, Computer Science, thesis-based, co-op option, 2020.1-2022.4 ([Master Thesis](http://hdl.handle.net/10012/18243){:target="\_blank"})
+<i class="fas fa-graduation-cap"></i> MMath, University of Waterloo, Computer Science, thesis-based, co-op option, 2020.1-2022.4 ([Master Thesis](http://hdl.handle.net/10012/18243){:target="\_blank"}, [Slides](https://github.com/SaiyueLyu/saiyuelyu.github.io/blob/master/assets/pdf/SaiyueLyuThesisPre.pdf){:target="\_blank"})
 
 <i class="fas fa-graduation-cap"></i> BMath, University of Waterloo, Honors Pure Mathematics, Honors Combinatorics and Optimization, 2016.9-2019.12
