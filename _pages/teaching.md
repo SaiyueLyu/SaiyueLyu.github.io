@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 At UBC :
-* TA, CPSC330 Applied Machine Learning : 22W1
+* TA, CPSC330 Applied Machine Learning : 22Fall
+* TA, CPSC340 Machine Learning and Data Mining : 23Winter
 
 At UWaterloo :
 * TA, CS240 Data Structure & Data Management : 20Winter, 20Spring, 21Winter, 21Spring
