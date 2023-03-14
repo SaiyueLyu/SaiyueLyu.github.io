@@ -14,7 +14,7 @@ description: she/her/hers, saiyuel@cs.ubc.ca
 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False  # includes social icons at the bottom of the page
+social: True  # includes social icons at the bottom of the page
 ---
 
 I am a Computer Science Ph.D. student at the [University of British Columbia](https://www.cs.ubc.ca/){:target="\_blank"} supervised by Prof. [Mijung Park](https://www.cs.ubc.ca/~mijungp/){:target="\_blank"}. I am interested in privacy-preserving machine learning. Currently I am working on differential private data generation, to synthesize data without sacrificing privacy.
