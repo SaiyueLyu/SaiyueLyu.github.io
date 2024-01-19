@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Some early projects and personal writings
 nav: true
-display_categories: [Math, Notes]
+display_categories: [CS, Math, Notes]
 horizontal: false
 ---
 
