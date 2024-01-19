@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some projects and personal writings
+description: Some early projects and personal writings
 nav: true
-display_categories: [CS, Math, Notes]
+display_categories: [Math, Notes]
 horizontal: false
 ---
 
