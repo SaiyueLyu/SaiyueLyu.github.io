@@ -1,10 +1,11 @@
 ---
 layout: page
-title: projects
+title: early projects
 permalink: /projects/
 description: Some early projects and personal writings
 nav: true
-display_categories: [CS, Math, Notes]
+nav_order: 3
+display_categories: [Math, Notes]
 horizontal: false
 ---
 

@@ -5,5 +5,5 @@ description: Algorithms
 img:
 redirect: https://saiyuelyu.github.io/assets/pdf/SkewPolynomialProject.pdf
 importance: 10
-category: CS
+category: Math
 ---

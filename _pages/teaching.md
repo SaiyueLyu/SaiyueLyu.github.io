@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I am/was a TA for multiple CS courses at UBC and UWaterloo.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 At UBC :
