@@ -17,7 +17,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: True  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science Ph.D. student at the [University of British Columbia](https://www.cs.ubc.ca/){:target="\_blank"} co-supervised by Prof. [Mijung Park](https://www.cs.ubc.ca/~mijungp/) and Prof. [Mathias Lécuyer](http://mathias.lecuyer.me/). I am interested in privacy-preserving machine learning. Currently I am working on differential private data generation, to synthesize data without sacrificing privacy.
+I am a Computer Science Ph.D. student at the [University of British Columbia](https://www.cs.ubc.ca/){:target="\_blank"} supervised by Prof. [Mathias Lécuyer](http://mathias.lecuyer.me/). I am interested in privacy-preserving machine learning. Currently I am working on differential private data generation, to synthesize data without sacrificing privacy.
 
 I obtained my master degree in the [Cheriton School of Computer Science](https://www.cs.uwaterloo.ca){:target="\_blank"} at [The University of Waterloo](https://www.uwaterloo.ca){:target="\_blank"} supervised by Prof. [Mark Giesbrecht](https://cs.uwaterloo.ca/~mwg){:target="\_blank"} working on mathematical algorithms and symbolic computation. I completed my undergraduate degree at Waterloo in [Pure Mathematics](https://uwaterloo.ca/pure-mathematics/){:target="\_blank"} and [Combinatorics & Optimization](https://uwaterloo.ca/combinatorics-and-optimization/){:target="\_blank"}, where I was fortunate to work with Prof. [Yu-Ru Liu](https://uwaterloo.ca/scholar/yrliu){:target="\_blank"}. I also worked with Prof. [Zhicong Lu](http://www.cs.utoronto.ca/~luzhc/){:target="\_blank"} on HCI and Computational Social Science about crisis informatics.
 
