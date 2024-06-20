@@ -238,7 +238,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Lyu
+  last_name: Lyu *
   first_name: [Saiyue]
 
   style: apa
