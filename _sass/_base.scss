@@ -687,8 +687,8 @@ footer.sticky-bottom {
         }
 
         .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
+          color: var(--global-honor-color) !important;
+          border: 1px solid var(--global-honor-color);
           padding-left: 0.75rem;
           padding-right: 0.75rem;
         }
@@ -759,7 +759,7 @@ footer.sticky-bottom {
       }
 
       .honor {
-        color: var(--global-theme-color);      
+        color: var(--global-honor-color);      
         font-weight: bolder;
       }     
 
